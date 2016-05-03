@@ -5,11 +5,7 @@ public
 .idea
 client/bower_components
 dist
-/server/config/local.env.js
-/server/.deploy.log
-/server/logs/Rho-log*
 /client/app/server.env.js
-/client/index.html
 /docs/
 npm-debug.log
 .archives
